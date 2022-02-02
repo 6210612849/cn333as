@@ -1,0 +1,2 @@
+rootProject.name = "CN333_AS1"
+include ':app'
