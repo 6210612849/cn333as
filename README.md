@@ -3,7 +3,13 @@
 
 ตัวอย่างรูปภาพภายในapp
 หน้าหลัก 
+
+
+
 ![main](https://user-images.githubusercontent.com/60337826/152245753-d6aabca3-6598-47fc-83fe-c54da67104b2.jpg)
+
+
+
 
 
 เมื่อทายเลขถูก 
